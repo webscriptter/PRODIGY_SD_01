@@ -16,9 +16,8 @@ How to Get Started:
 2. Open the Java project in your preferred IDE.
 3. Run the application to start converting temperatures with ease.
 
-Contribute:
-We welcome contributions and improvements to this project. Feel free to fork the repository, make changes, and submit a pull request. Let's enhance this temperature converter together!
 
-Start converting temperatures effortlessly with this Java-based GUI application! Happy coding!
 
-#Java #TemperatureConverter #GUIApplication #OpenSource #Conversions
+
+
+
